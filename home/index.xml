@@ -18,9 +18,18 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography I am a PhD Candidate in the CHROMA team at Inria Grenoble. my current research interests include potential fields, Natural Vision, Markov models, self-organizing topological maps, pedestrian prediction in urban areas and decision making under uncertainity. I am being advised in my PhD by Anne Spalanzani and Dominique Vaufreydaz
-My CV can be found [here]()
-I&amp;rsquo;m expected to defend his thesis in 2019.</description>
+      <description>Biography I am a PhD Candidate in the CHROMA team at Inria Grenoble. My current research interests include potential fields, Natural Vision, Markov models, self-organizing topological maps, pedestrian prediction in urban areas and decision making under uncertainity. I am being advised in my PhD by Anne Spalanzani and Dominique Vaufreydaz
+My CV can be found here
+I&amp;rsquo;m expected to defend my thesis in 2019.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>I am currently working on increasing the situational awareness of an autonomous car in a dense urban area. My research focuses on using sociological ideas like Natural Vision as a basis for using probabilistic methods to predict pedestrian behaviour in urban areas. In this, I am aided by an ANR (Agence National de Recherche) grant for a collaborative project involving the research labs Inria Grenoble, Inria Paris, LS2N and the industrial partner AKKA.</description>
     </item>
     
     <item>
@@ -51,6 +60,15 @@ I&amp;rsquo;m expected to defend his thesis in 2019.</description>
     </item>
     
     <item>
+      <title>Gallery</title>
+      <link>/home/gallery/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/gallery/</guid>
+      <description>    </description>
+    </item>
+    
+    <item>
       <title>Recent Posts</title>
       <link>/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
@@ -66,16 +84,6 @@ I&amp;rsquo;m expected to defend his thesis in 2019.</description>
       
       <guid>/home/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Custom Section</title>
-      <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
     </item>
     
     <item>

@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
@@ -46,6 +47,8 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
   
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+  
   
   
   
@@ -54,6 +57,8 @@
   <link rel="stylesheet" href="/styles.css">
   
 
+  
+  
   
 
   
@@ -79,6 +84,7 @@
   
 
   
+
   
 
   <title>Pavan R. Vasishta</title>
@@ -158,6 +164,25 @@
         
 
         <li class="nav-item">
+          <a href="/#gallery" data-target="#gallery">
+            
+            <span>Gallery</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
           <a href="/#posts" data-target="#posts">
             
             <span>Posts</span>
@@ -180,25 +205,6 @@
           <a href="/#projects" data-target="#projects">
             
             <span>Projects</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-        
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a href="/#teaching" data-target="#teaching">
-            
-            <span>Teaching</span>
             
           </a>
         </li>
@@ -271,9 +277,9 @@
 
         
         <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
-          
+          <a href="https://www.inria.fr/en/centre/grenoble" target="_blank" itemprop="url" rel="noopener">
           <span itemprop="name">Inria Grenoble</span>
-          
+          </a>
         </h3>
         
         <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
@@ -326,11 +332,11 @@
 
 <h1 id="biography">Biography</h1>
 
-<p>I am a PhD Candidate in the CHROMA team at Inria Grenoble. my current research interests include potential fields, <em>Natural Vision</em>, Markov models, self-organizing topological maps, pedestrian prediction in urban areas and decision making under uncertainity. I am being advised in my PhD by <a href="https://scholar.google.fr/citations?user=Egva5yQAAAAJ&amp;hl=en" target="_blank">Anne Spalanzani</a> and <a href="http://research.vaufreydaz.org/" target="_blank">Dominique Vaufreydaz</a></p>
+<p>I am a PhD Candidate in the <a href="https://team.inria.fr/chroma/en/" target="_blank">CHROMA</a> team at Inria Grenoble. My current research interests include potential fields, <em>Natural Vision</em>, Markov models, self-organizing topological maps, pedestrian prediction in urban areas and decision making under uncertainity. I am being advised in my PhD by <a href="https://scholar.google.fr/citations?user=Egva5yQAAAAJ&amp;hl=en" target="_blank">Anne Spalanzani</a> and <a href="http://research.vaufreydaz.org/" target="_blank">Dominique Vaufreydaz</a></p>
 
-<p>My CV can be found [here]()</p>
+<p>My CV can be found <a href="/files/CV_Professional_TeX.pdf" target="_blank">here</a></p>
 
-<p>I&rsquo;m expected to defend his thesis in 2019.</p>
+<p>I&rsquo;m expected to defend my thesis in 2019.</p>
 
 <!-- Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
@@ -399,6 +405,31 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
   
   
   
+  <section id="teaching" class="home-section">
+    <div class="container">
+      
+
+
+<div class="row">
+  
+  <div class="col-xs-12 col-md-4 section-heading">
+    <h1>Research</h1>
+    
+  </div>
+  <div class="col-xs-12 col-md-8">
+    <p>I am currently working on increasing the situational awareness of an autonomous car in a dense urban area. My research focuses on using sociological ideas like <em>Natural Vision</em> as a basis for using probabilistic methods to predict pedestrian behaviour in urban areas. In this, I am aided by an ANR (<em>Agence National de Recherche</em>) grant for a collaborative project involving the research labs Inria Grenoble, Inria Paris, LS2N and the industrial partner AKKA.</p>
+
+  </div>
+  
+</div>
+
+    </div>
+  </section>
+  
+
+  
+  
+  
   <section id="publications_selected" class="home-section">
     <div class="container">
       
@@ -418,6 +449,69 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
     
 
     
+    
+      
+        <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+  
+
+  <h3 class="article-title" itemprop="name">
+    <a href="/publication/natural-vision-itsc/" itemprop="url">Natural vision based method for predicting pedestrian behaviour in urban environments</a>
+  </h3>
+
+  <div class="pub-abstract" itemprop="text">
+    
+    This paper proposes to model pedestrian behaviour in urban scenes by combining the principles of urban planning and the sociological concept of Natural Vision. This model assumes that the environment perceived by pedestrians is composed of multiple potential fields that influence their behaviour. These fields are derived from static scene elements like side-walks, cross-walks, buildings, shops entrances and dynamic obstacles like cars and buses for instance. Using this model, autonomous cars increase their level of situational awareness in the local urban space, with the ability to infer probable pedestrian paths in the scene to predict, for example, legal and illegal crossings.
+    
+  </div>
+
+  <div class="pub-authors" itemprop="author">
+    
+    P Vasishta, D Vaufreydaz, A Spalanzani
+    
+  </div>
+
+  <div class="pub-publication">
+    
+    In <em>ITSC</em>,
+    
+    2017
+  </div>
+
+  <div class="pub-links">
+    
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://hal.inria.fr/hal-01561029/document" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+
+</div>
+
+      
     
 
   </div>
@@ -454,6 +548,76 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
 
     
     
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    P Vasishta, D Vaufreydaz, A Spalanzani</span>.
+  <a href="/publication/natural-vision-itsc/" itemprop="name">Natural vision based method for predicting pedestrian behaviour in urban environments</a>.
+  In <em>ITSC</em>,
+  2017.
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://hal.inria.fr/hal-01561029/document" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    P Vasishta, D Vaufreydaz, A Spalanzani</span>.
+  <a href="/publication/urban-behaviour-iros/" itemprop="name">Urban Pedestrian Behaviour Modelling using Natural Vision and Potential Fields</a>.
+  In <em>PPNIV/IROS</em>,
+  2017.
+  <p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+      
+    
 
   </div>
 </div>
@@ -465,24 +629,48 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
   
   
   
-  <section id="talks" class="home-section">
+  <section id="gallery" class="home-section">
     <div class="container">
       
 
 
-
-
 <div class="row">
+  
   <div class="col-xs-12 col-md-4 section-heading">
-    <h1>Recent &amp; Upcoming Talks</h1>
-    
+    <h1>Gallery</h1>
     
   </div>
   <div class="col-xs-12 col-md-8">
     
 
+<div class="gallery">
+  
+  
+  
+  
     
+      
+    
+  
+  <a data-fancybox="gallery-1" data-caption="Self Organizing topological map on a potential field" href="/img/gallery_1.png">
+    <img alt="" src="/img/gallery_1.png">
+  </a>
+  
+  
+  
+  
+    
+      
+    
+  
+  <a data-fancybox="gallery-1" data-caption="How people behave in an urban area with points of interest" href="/img/gallery_2.png">
+    <img alt="" src="/img/gallery_2.png">
+  </a>
+  
+</div>
+
   </div>
+  
 </div>
 
     </div>
@@ -567,58 +755,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
   
   
   
-  <section id="teaching" class="home-section">
-    <div class="container">
-      
-
-
-<div class="row">
-  
-  <div class="col-xs-12 col-md-4 section-heading">
-    <h1>Custom Section</h1>
-    
-  </div>
-  <div class="col-xs-12 col-md-8">
-    <p>This is an example of using the <em>custom</em> widget to create your own homepage section.</p>
-
-<p>To remove this section, either delete <code>content/home/teaching.md</code> or edit the frontmatter of the file to deactivate the widget by setting <code>active = false</code>.</p>
-
-  </div>
-  
-</div>
-
-    </div>
-  </section>
-  
-
-  
-  
-  
-  <section id="tags" class="home-section">
-    <div class="container">
-      
-
-
-<div class="row">
-  <div class="col-xs-12 col-md-4 section-heading">
-    <h1>Tags</h1>
-    
-  </div>
-  <div class="col-xs-12 col-md-8">
-    
-
-    
-
-  </div>
-</div>
-
-    </div>
-  </section>
-  
-
-  
-  
-  
   <section id="contact" class="home-section">
     <div class="container">
       
@@ -676,7 +812,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
 
     
     <div class="hidden">
-      <input id="map-provider" value="1">
+      <input id="map-provider" value="2">
       <input id="map-lat" value="45.218158">
       <input id="map-lng" value="5.807240">
       <input id="map-dir" value="655, Avenue de l&#39;Europe, Montbonnot-St.-Martin, 38330, France.">
@@ -697,6 +833,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
 
 <footer class="site-footer">
   <div class="container">
+
+    
+
     <p class="powered-by">
 
       &copy; 2018 &middot; 
@@ -747,8 +886,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
     
 
     
-    <script async defer src="//maps.googleapis.com/maps/api/js?key="></script>
-    
 
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous"></script>
@@ -757,7 +894,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
     
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.25/gmaps.min.js" integrity="sha256-7vjlAeb8OaTrCXZkCNun9djzuB2owUsaO72kXaFDBJs=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
     
     
     <script src="/js/hugo-academic.js"></script>
@@ -780,10 +917,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
     
     
     <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+      MathJax.Hub.Config({
+        CommonHTML: { linebreaks: { automatic: true } },
+        tex2jax: { inlineMath: [ ['$', '$'], ['\\(','\\)'] ], displayMath: [ ['$$','$$'], ['\\[', '\\]'] ], processEscapes: false },
+        TeX: { noUndefined: { attributes: { mathcolor: 'red', mathbackground: '#FFEEEE', mathsize: '90%' } } },
+        messageStyle: 'none'
+      });
     </script>
     
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML" integrity="sha512-tOav5w1OjvsSJzePRtt2uQPFwBoHt1VZcUq8l8nm5284LEKE9FSJBQryzMBzHxY5P0zRdNqEcpLIRVYFNgu1jw==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous"></script>
     
     
 

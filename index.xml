@@ -10,5 +10,23 @@
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Natural vision based method for predicting pedestrian behaviour in urban environments</title>
+      <link>/publication/natural-vision-itsc/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/natural-vision-itsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Pedestrian Behaviour Modelling using Natural Vision and Potential Fields</title>
+      <link>/publication/urban-behaviour-iros/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/urban-behaviour-iros/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
