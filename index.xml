@@ -1,14 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pavan R. Vasishta on Pavan R. Vasishta</title>
+    <title>Pavan Vasishta&#39;s Page</title>
     <link>/</link>
-    <description>Recent content in Pavan R. Vasishta on Pavan R. Vasishta</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content on Pavan Vasishta&#39;s Page</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>/cv/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description>&lt;p&gt;You will find an up-to-date pdf of my cv &lt;a href=&#34;/files/cv.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Herer&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Landing Page</title>
+      <link>/landing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/landing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Prior Knowledge: A Markov Based Pedestrian Prediction Model Using Urban Environment Data</title>
+      <link>/publication/building-knowledge-icarcv/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/building-knowledge-icarcv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Personal Corner</title>
+      <link>/personal/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/personal/</guid>
+      <description>&lt;p&gt;This page is still under construction&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conferences and Journals</title>
+      <link>/publications/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>&lt;p&gt;Add your &lt;em&gt;content&lt;/em&gt; here&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Natural vision based method for predicting pedestrian behaviour in urban environments</title>
@@ -34,7 +86,118 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/project/traffic-junction-annotation/</guid>
-      <description>&lt;p&gt;I just want to check if whatever I type here shows up on the webpage.&lt;/p&gt;
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/publication/building-knowledge-icarcv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/building-knowledge-icarcv/</guid>
+      <description>
+
+&lt;p&gt;+++
+title = &amp;ldquo;Building Prior Knowledge: A Markov Based Pedestrian Prediction Model Using Urban Environment Data&amp;rdquo;
+date = 2018-11-18T00:00:00
+draft = false&lt;/p&gt;
+
+&lt;h1 id=&#34;authors-comma-separated-list-e-g-bob-smith-david-jones&#34;&gt;Authors. Comma separated list, e.g. &lt;code&gt;[&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]&lt;/code&gt;.&lt;/h1&gt;
+
+&lt;p&gt;authors = [&amp;ldquo;P Vasishta&amp;rdquo;, &amp;ldquo;D Vaufreydaz&amp;rdquo;, &amp;ldquo;A Spalanzani&amp;rdquo;]&lt;/p&gt;
+
+&lt;h1 id=&#34;publication-type&#34;&gt;Publication type.&lt;/h1&gt;
+
+&lt;h1 id=&#34;legend&#34;&gt;Legend:&lt;/h1&gt;
+
+&lt;h1 id=&#34;0-uncategorized&#34;&gt;0 = Uncategorized&lt;/h1&gt;
+
+&lt;h1 id=&#34;1-conference-paper&#34;&gt;1 = Conference paper&lt;/h1&gt;
+
+&lt;h1 id=&#34;2-journal-article&#34;&gt;2 = Journal article&lt;/h1&gt;
+
+&lt;h1 id=&#34;3-manuscript&#34;&gt;3 = Manuscript&lt;/h1&gt;
+
+&lt;h1 id=&#34;4-report&#34;&gt;4 = Report&lt;/h1&gt;
+
+&lt;h1 id=&#34;5-book&#34;&gt;5 = Book&lt;/h1&gt;
+
+&lt;h1 id=&#34;6-book-section&#34;&gt;6 = Book section&lt;/h1&gt;
+
+&lt;p&gt;publication_types = [&amp;ldquo;1&amp;rdquo;]&lt;/p&gt;
+
+&lt;h1 id=&#34;publication-name-and-optional-abbreviated-version&#34;&gt;Publication name and optional abbreviated version.&lt;/h1&gt;
+
+&lt;p&gt;publication = &amp;ldquo;In &lt;em&gt;International Conference on Control, Automation, Robotics and Vision (ICARCV)&lt;/em&gt;, IEEE.&amp;rdquo;
+publication_short = &amp;ldquo;In &lt;em&gt;ICARCV&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
+
+&lt;h1 id=&#34;abstract-and-optional-shortened-version&#34;&gt;Abstract and optional shortened version.&lt;/h1&gt;
+
+&lt;p&gt;abstract = &amp;ldquo;Autonomous Vehicles navigating in urban areas have a need to understand and predict future pedestrian behavior for safer navigation. This high level of situational awareness requires observing pedestrian behavior and extrapolating their positions to know future positions. While some work has been done in this field using Hidden Markov Models (HMMs), one of the few observed drawbacks of the method is the need for informed priors for learning behavior. In this work, an extension to the Growing Hidden Markov Model (GHMM) method is proposed to solve some of these drawbacks. This is achieved by building on existing work using potential cost maps and the principle of \textit{Natural Vision}. As a consequence, the proposed model is able to predict pedestrian positions more precisely over a longer horizon compared to the state of the art. The method is tested over &amp;ldquo;legal&amp;rdquo; and &amp;ldquo;illegal&amp;rdquo; behavior of pedestrians, having trained the model with sparse observations and partial trajectories. The method, with no training data, is compared against a trained state of the art model. It is observed that the proposed method is robust even in new, previously unseen areas.&amp;rdquo;
+abstract_short = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;h1 id=&#34;is-this-a-featured-publication-true-false&#34;&gt;Is this a featured publication? (true/false)&lt;/h1&gt;
+
+&lt;p&gt;featured = true&lt;/p&gt;
+
+&lt;h1 id=&#34;projects-optional&#34;&gt;Projects (optional).&lt;/h1&gt;
+
+&lt;h1 id=&#34;associate-this-publication-with-one-or-more-of-your-projects&#34;&gt;Associate this publication with one or more of your projects.&lt;/h1&gt;
+
+&lt;h1 id=&#34;simply-enter-your-project-s-folder-or-file-name-without-extension&#34;&gt;Simply enter your project&amp;rsquo;s folder or file name without extension.&lt;/h1&gt;
+
+&lt;h1 id=&#34;e-g-projects-deep-learning-references&#34;&gt;E.g. &lt;code&gt;projects = [&amp;quot;deep-learning&amp;quot;]&lt;/code&gt; references&lt;/h1&gt;
+
+&lt;h1 id=&#34;content-project-deep-learning-index-md&#34;&gt;&lt;code&gt;content/project/deep-learning/index.md&lt;/code&gt;.&lt;/h1&gt;
+
+&lt;h1 id=&#34;otherwise-set-projects&#34;&gt;Otherwise, set &lt;code&gt;projects = []&lt;/code&gt;.&lt;/h1&gt;
+
+&lt;p&gt;projects = [&amp;ldquo;internal-project&amp;rdquo;]&lt;/p&gt;
+
+&lt;h1 id=&#34;tags-optional&#34;&gt;Tags (optional).&lt;/h1&gt;
+
+&lt;h1 id=&#34;set-tags-for-no-tags-or-use-the-form-tags-a-tag-another-tag-for-one-or-more-tags&#34;&gt;Set &lt;code&gt;tags = []&lt;/code&gt; for no tags, or use the form &lt;code&gt;tags = [&amp;quot;A Tag&amp;quot;, &amp;quot;Another Tag&amp;quot;]&lt;/code&gt; for one or more tags.&lt;/h1&gt;
+
+&lt;p&gt;tags = []&lt;/p&gt;
+
+&lt;h1 id=&#34;links-optional&#34;&gt;Links (optional).&lt;/h1&gt;
+
+&lt;p&gt;url_pdf = &amp;ldquo;#&amp;rdquo;
+url_preprint = &amp;ldquo;&lt;a href=&#34;https://hal.inria.fr/hal-01875147/document&amp;quot;&#34; target=&#34;_blank&#34;&gt;https://hal.inria.fr/hal-01875147/document&amp;quot;&lt;/a&gt;
+url_code = &amp;ldquo;#&amp;rdquo;
+url_dataset = &amp;ldquo;#&amp;rdquo;
+url_project = &amp;ldquo;&amp;rdquo;
+url_slides = &amp;ldquo;#&amp;rdquo;
+url_video = &amp;ldquo;#&amp;rdquo;
+url_poster = &amp;ldquo;#&amp;rdquo;
+url_source = &amp;ldquo;#&amp;rdquo;&lt;/p&gt;
+
+&lt;h1 id=&#34;custom-links-optional&#34;&gt;Custom links (optional).&lt;/h1&gt;
+
+&lt;h1 id=&#34;uncomment-line-below-to-enable-for-multiple-links-use-the-form&#34;&gt;Uncomment line below to enable. For multiple links, use the form &lt;code&gt;[{...}, {...}, {...}]&lt;/code&gt;.&lt;/h1&gt;
+
+&lt;p&gt;url_custom = [{name = &amp;ldquo;Custom Link&amp;rdquo;, url = &amp;ldquo;&lt;a href=&#34;http://example.org&amp;quot;}&#34; target=&#34;_blank&#34;&gt;http://example.org&amp;quot;}&lt;/a&gt;]&lt;/p&gt;
+
+&lt;h1 id=&#34;digital-object-identifier-doi&#34;&gt;Digital Object Identifier (DOI)&lt;/h1&gt;
+
+&lt;p&gt;doi = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;h1 id=&#34;does-this-page-contain-latex-math-true-false&#34;&gt;Does this page contain LaTeX math? (true/false)&lt;/h1&gt;
+
+&lt;p&gt;math = true&lt;/p&gt;
+
+&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
+
+&lt;h1 id=&#34;to-use-add-an-image-named-featured-jpg-png-to-your-page-s-folder&#34;&gt;To use, add an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; to your page&amp;rsquo;s folder.&lt;/h1&gt;
+
+&lt;p&gt;[image]
+  # Caption (optional)
+  caption = &amp;ldquo;Image credit: &lt;a href=&#34;https://unsplash.com/photos/pLCdAaMFLTE&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Unsplash&lt;/strong&gt;&lt;/a&gt;&amp;ldquo;&lt;/p&gt;
+
+&lt;p&gt;# Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = &amp;ldquo;&amp;rdquo;
++++&lt;/p&gt;
 </description>
     </item>
     

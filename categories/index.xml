@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Pavan R. Vasishta</title>
+    <title>Categories on Pavan Vasishta&#39;s Page</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on Pavan R. Vasishta</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Categories on Pavan Vasishta&#39;s Page</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; {year}</copyright>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

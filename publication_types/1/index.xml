@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Pavan R. Vasishta</title>
+    <title>1 on Pavan Vasishta&#39;s Page</title>
     <link>/publication_types/1/</link>
-    <description>Recent content in 1 on Pavan R. Vasishta</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in 1 on Pavan Vasishta&#39;s Page</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 16 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Sun, 18 Nov 2018 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building Prior Knowledge: A Markov Based Pedestrian Prediction Model Using Urban Environment Data</title>
+      <link>/publication/building-knowledge-icarcv/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/building-knowledge-icarcv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Natural vision based method for predicting pedestrian behaviour in urban environments</title>

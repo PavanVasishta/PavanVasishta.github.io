@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Pavan R. Vasishta</title>
+    <title>Projects on Pavan Vasishta&#39;s Page</title>
     <link>/project/</link>
-    <description>Recent content in Projects on Pavan R. Vasishta</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Projects on Pavan Vasishta&#39;s Page</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; {year}</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,7 +18,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/project/traffic-junction-annotation/</guid>
-      <description>I just want to check if whatever I type here shows up on the webpage.</description>
+      <description></description>
     </item>
     
   </channel>
