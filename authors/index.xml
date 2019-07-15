@@ -7,37 +7,9 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 18 Nov 2018 00:00:00 +0100</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>A Spalanzani</title>
-      <link>/authors/a-spalanzani/</link>
-      <pubDate>Sun, 18 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/a-spalanzani/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D Vaufreydaz</title>
-      <link>/authors/d-vaufreydaz/</link>
-      <pubDate>Sun, 18 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/d-vaufreydaz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>P Vasishta</title>
-      <link>/authors/p-vasishta/</link>
-      <pubDate>Sun, 18 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/p-vasishta/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title></title>
@@ -52,6 +24,40 @@
 &lt;p&gt;My CV can be found &lt;a href=&#34;/files/cv.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I will defend my thesis in September 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/pvnr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/pvnr/</guid>
+      <description>
+
+&lt;h2 id=&#34;conferences&#34;&gt;&lt;strong&gt;Conferences&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;2018&#34;&gt;2018&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8581368&#34; target=&#34;_blank&#34;&gt;Building Prior Knowledge: A Markov Based Pedestrian Prediction Model Using Urban Environmental Data&lt;/a&gt;&lt;br /&gt;
+P. Vasishta, D. Vaufreydaz, A. Spalanzani&lt;br /&gt;
+&lt;em&gt;ICARCV 2018&lt;/em&gt; [&lt;a href=&#34;https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8581368&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;2017&#34;&gt;2017&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8317848&#34; target=&#34;_blank&#34;&gt;Natural vision based method for predicting pedestrian behaviour in urban environments&lt;/a&gt;&lt;br /&gt;
+P. Vasishta, D. Vaufreydaz, A. Spalanzani&lt;br /&gt;
+&lt;em&gt;ITSC 2018&lt;/em&gt; [&lt;a href=&#34;https://hal.inria.fr/hal-01561029/document&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://ppniv17.irccyn.ec-nantes.fr/session4/Vasishta/paper.pdf&#34; target=&#34;_blank&#34;&gt;Urban Pedestrian Behaviour Modelling using Natural Vision and Potential Fields&lt;/a&gt;&lt;br /&gt;
+P. Vasishta, D. Vaufreydaz, A. Spalanzani&lt;br /&gt;
+&lt;em&gt;PPNIV-IROS 2017 Workshops&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

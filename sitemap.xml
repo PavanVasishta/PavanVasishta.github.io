@@ -14,52 +14,6 @@
   </url>
   
   <url>
-    <loc>/landing/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2018-11-18T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/a-spalanzani/</loc>
-    <lastmod>2018-11-18T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2018-11-18T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/building-knowledge-icarcv/</loc>
-    <lastmod>2018-11-18T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/d-vaufreydaz/</loc>
-    <lastmod>2018-11-18T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/p-vasishta/</loc>
-    <lastmod>2018-11-18T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2018-11-18T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/personal/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url>
@@ -70,22 +24,7 @@
   </url>
   
   <url>
-    <loc>/publication/natural-vision-itsc/</loc>
-    <lastmod>2017-10-16T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/urban-behaviour-iros/</loc>
-    <lastmod>2017-09-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/</loc>
-    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2017-01-01T00:00:00+01:00</lastmod>
   </url>
   
@@ -110,12 +49,21 @@
   </url>
   
   <url>
-    <loc>/publication/building-knowledge-icarcv/</loc>
+    <loc>/authors/pvnr/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
     <priority>0</priority>
   </url>
   
