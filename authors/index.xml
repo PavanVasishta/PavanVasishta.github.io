@@ -17,14 +17,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I defended my PhD in September 2019 and currently on the lookout for new opportunities.&lt;/p&gt;
-
-&lt;p&gt;My CV can be found &lt;a href=&#34;/files/cv.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; (&lt;strong&gt;Updated&lt;/strong&gt; &lt;em&gt;Sept. 2019&lt;/em&gt;)&lt;/p&gt;
-
-&lt;p&gt;Previously, I was a PhD Candidate in the &lt;a href=&#34;https://team.inria.fr/chroma/en/&#34; target=&#34;_blank&#34;&gt;CHROMA&lt;/a&gt; team at Inria Grenoble under the supervision of &lt;a href=&#34;https://scholar.google.fr/citations?user=Egva5yQAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Anne Spalanzani&lt;/a&gt; and &lt;a href=&#34;http://research.vaufreydaz.org/&#34; target=&#34;_blank&#34;&gt;Dominique Vaufreydaz&lt;/a&gt;. During my PhD, I worked on understanding and predicting pedestrian behaviour around autonomous vehicles in built urban areas by building and exploiting prior knowledge. My research focused on using sociological ideas like &lt;em&gt;Natural Vision&lt;/em&gt; as a basis for using probabilistic methods to predict pedestrian behaviour in urban areas. In this, I was aided by an ANR (&lt;em&gt;Agence National de Recherche&lt;/em&gt;) grant for a collaborative project involving the research labs &lt;a href=&#34;https://www.inria.fr/en/centre/grenoble&#34; target=&#34;_blank&#34;&gt;Inria Grenoble&lt;/a&gt; , &lt;a href=&#34;https://www.inria.fr/en/centre/paris&#34; target=&#34;_blank&#34;&gt;Inria Paris&lt;/a&gt;, &lt;a href=&#34;https://www.ls2n.fr/&#34; target=&#34;_blank&#34;&gt;LS2N&lt;/a&gt; and the industrial partner &lt;a href=&#34;https://www.akka-technologies.com/&#34; target=&#34;_blank&#34;&gt;AKKA&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I completed my MSc from the Ecole Centrale de Nantes in Advanced Robotics and have worke on making collaborative robots safer around human operators as an intern at &lt;a href=&#34;https://www.irt-jules-verne.fr/&#34; target=&#34;_blank&#34;&gt;IRT Jules Verne&lt;/a&gt;.&lt;/p&gt;
-
+      <description>&lt;p&gt;I am currently working as a Postdoctoral Researcher under the supervision of &lt;a href=&#34;https://perso.ensta-paris.fr/~filliat/eng/&#34;&gt;David Filliat&lt;/a&gt; at the U2IS Lab of ENSTA ParisTech. I am working on predicting behaviour of shared space users in an environment for Autonomous Vehicles.&lt;/p&gt;
+&lt;p&gt;My CV can be found &lt;!-- raw HTML omitted --&gt;here&lt;!-- raw HTML omitted --&gt; (&lt;strong&gt;Updated&lt;/strong&gt; &lt;em&gt;Mar. 2020&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;I defended my PhD in September 2019. Previously, I was a PhD Candidate in the &lt;a href=&#34;https://team.inria.fr/chroma/en/&#34;&gt;CHROMA&lt;/a&gt; team at Inria Grenoble under the supervision of &lt;a href=&#34;https://scholar.google.fr/citations?user=Egva5yQAAAAJ&amp;amp;hl=en&#34;&gt;Anne Spalanzani&lt;/a&gt; and &lt;a href=&#34;http://research.vaufreydaz.org/&#34;&gt;Dominique Vaufreydaz&lt;/a&gt;. During my PhD, I worked on understanding and predicting pedestrian behaviour around autonomous vehicles in built urban areas by building and exploiting prior knowledge. My research focused on using sociological ideas like &lt;em&gt;Natural Vision&lt;/em&gt; as a basis for using probabilistic methods to predict pedestrian behaviour in urban areas. In this, I was aided by an ANR (&lt;em&gt;Agence National de Recherche&lt;/em&gt;) grant for a collaborative project involving the research labs &lt;a href=&#34;https://www.inria.fr/en/centre/grenoble&#34;&gt;Inria Grenoble&lt;/a&gt; , &lt;a href=&#34;https://www.inria.fr/en/centre/paris&#34;&gt;Inria Paris&lt;/a&gt;, &lt;a href=&#34;https://www.ls2n.fr/&#34;&gt;LS2N&lt;/a&gt; and the industrial partner &lt;a href=&#34;https://www.akka-technologies.com/&#34;&gt;AKKA&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I completed my MSc from the Ecole Centrale de Nantes in Advanced Robotics and have worke on making collaborative robots safer around human operators as an intern at &lt;a href=&#34;https://www.irt-jules-verne.fr/&#34;&gt;IRT Jules Verne&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;My current research interests include potential fields, &lt;em&gt;Natural Vision&lt;/em&gt;, Markov models, self-organizing topological maps, pedestrian prediction in urban areas and decision making under uncertainity.&lt;/p&gt;
 </description>
     </item>
@@ -35,30 +31,26 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/pvnr/</guid>
-      <description>
-
-&lt;h2 id=&#34;conferences&#34;&gt;&lt;strong&gt;Conferences&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;hr /&gt;
-
+      <description>&lt;h2 id=&#34;conferences&#34;&gt;&lt;strong&gt;Conferences&lt;/strong&gt;&lt;/h2&gt;
+&lt;hr&gt;
 &lt;h4 id=&#34;2018&#34;&gt;2018&lt;/h4&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8581368&#34; target=&#34;_blank&#34;&gt;Building Prior Knowledge: A Markov Based Pedestrian Prediction Model Using Urban Environmental Data&lt;/a&gt;&lt;br /&gt;
-P. Vasishta, D. Vaufreydaz, A. Spalanzani&lt;br /&gt;
-&lt;em&gt;ICARCV 2018&lt;/em&gt; [&lt;a href=&#34;https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8581368&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;] &lt;strong&gt;Best Student Paper&lt;/strong&gt; &lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8581368&#34;&gt;Building Prior Knowledge: A Markov Based Pedestrian Prediction Model Using Urban Environmental Data&lt;/a&gt;&lt;br&gt;
+P. Vasishta, D. Vaufreydaz, A. Spalanzani&lt;br&gt;
+&lt;em&gt;ICARCV 2018&lt;/em&gt; [&lt;a href=&#34;https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8581368&#34;&gt;PDF&lt;/a&gt;] &lt;strong&gt;Best Student Paper&lt;/strong&gt; \&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h4 id=&#34;2017&#34;&gt;2017&lt;/h4&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8317848&#34; target=&#34;_blank&#34;&gt;Natural vision based method for predicting pedestrian behaviour in urban environments&lt;/a&gt;&lt;br /&gt;
-P. Vasishta, D. Vaufreydaz, A. Spalanzani&lt;br /&gt;
-&lt;em&gt;ITSC 2018&lt;/em&gt; [&lt;a href=&#34;https://hal.inria.fr/hal-01561029/document&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://ppniv17.irccyn.ec-nantes.fr/session4/Vasishta/paper.pdf&#34; target=&#34;_blank&#34;&gt;Urban Pedestrian Behaviour Modelling using Natural Vision and Potential Fields&lt;/a&gt;&lt;br /&gt;
-P. Vasishta, D. Vaufreydaz, A. Spalanzani&lt;br /&gt;
-&lt;em&gt;PPNIV-IROS 2017 Workshops&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8317848&#34;&gt;Natural vision based method for predicting pedestrian behaviour in urban environments&lt;/a&gt;&lt;br&gt;
+P. Vasishta, D. Vaufreydaz, A. Spalanzani&lt;br&gt;
+&lt;em&gt;ITSC 2018&lt;/em&gt; [&lt;a href=&#34;https://hal.inria.fr/hal-01561029/document&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://ppniv17.irccyn.ec-nantes.fr/session4/Vasishta/paper.pdf&#34;&gt;Urban Pedestrian Behaviour Modelling using Natural Vision and Potential Fields&lt;/a&gt;&lt;br&gt;
+P. Vasishta, D. Vaufreydaz, A. Spalanzani&lt;br&gt;
+&lt;em&gt;PPNIV-IROS 2017 Workshops&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
